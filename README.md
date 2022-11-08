@@ -8,3 +8,5 @@ The stack class contains the following:
 3- Operator + between 2 Stacks "To concatenate the values of 2 stacks & insert them into third stack".
 
 4- Reverse stack.
+
+5- Friend function.
