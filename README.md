@@ -1,5 +1,5 @@
 # Stack-Class
-The stack class contains the following:
+**The stack class contains the following:**
 
 1- Operator== between 2 Stacks.
 
